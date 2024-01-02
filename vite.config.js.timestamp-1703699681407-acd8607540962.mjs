@@ -12,7 +12,7 @@ var vite_config_default = defineConfig({
       assets: "/src/assets"
     }
   },
-  base: "/Healthy_life/"
+  base: "/fs-84-react-node-va7ul/"
 });
 export {
   vite_config_default as default
