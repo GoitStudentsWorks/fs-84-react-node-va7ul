@@ -14,5 +14,5 @@ export default defineConfig({
     },
   },
 
-  base: '/Healthy_life/',
+  base: '/fs-84-react-node-va7ul/',
 });
